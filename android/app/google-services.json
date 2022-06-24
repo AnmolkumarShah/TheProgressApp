@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96135983128",
+    "project_id": "progress2-3a6fa",
+    "storage_bucket": "progress2-3a6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96135983128:android:9e90f14c716656e337936d",
+        "android_client_info": {
+          "package_name": "com.example.progress2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96135983128-ekkhajt82vc8oc66dkurtfkor8ovkdo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXABf4FunzuFxZ_ZkMv_jKm4pe15BRUEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96135983128-ekkhajt82vc8oc66dkurtfkor8ovkdo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
